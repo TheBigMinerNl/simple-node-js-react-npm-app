@@ -14,3 +14,4 @@ contains shell scripts with commands that are executed when Jenkins processes
 the "Test" and "Deliver" stages of your Pipeline.
 
 test1 (without Jenkins in webhook)
+Test2 (Commit)
