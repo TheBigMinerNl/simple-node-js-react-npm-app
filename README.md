@@ -16,3 +16,4 @@ the "Test" and "Deliver" stages of your Pipeline.
 test1 (without Jenkins in webhook)
 Test2 (Commit)
 Test3 (Change Webhook setting)
+Test4 (Handleiding)
